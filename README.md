@@ -15,8 +15,8 @@
   - ### MOSES VAE(Variational AutoEncoder) (방준일 연구원 (AI센터)):
     - PDF: https://github.com/kaicd/advanced_training/blob/main/Day1/Generative%20Model%20Pro.pdf
     - Codding Session
-      - VAE link: https://github.com/kaicd/advanced_training/blob/main/Day1/SMILES_VAE.ipynb
-      - AAE link: https://github.com/kaicd/advanced_training/blob/main/Day1/SMILES_AAE.ipynb
+      - VAE link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/kaicd/advanced_training/blob/main/Day1/SMILES_VAE.ipynb)
+      - AAE link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/kaicd/advanced_training/blob/main/Day1/SMILES_AAE.ipynb)
 
 ---
 
